@@ -1,0 +1,7 @@
+C:\Users\mmr\Documents\Visual Studio 2017\201801_Winter\20180404_2_6_Homework_Calculator\20180404_2_6_Homework_Calculator\bin\Debug\20180404_2_6_Homework_Calculator.exe.config
+C:\Users\mmr\Documents\Visual Studio 2017\201801_Winter\20180404_2_6_Homework_Calculator\20180404_2_6_Homework_Calculator\bin\Debug\20180404_2_6_Homework_Calculator.exe
+C:\Users\mmr\Documents\Visual Studio 2017\201801_Winter\20180404_2_6_Homework_Calculator\20180404_2_6_Homework_Calculator\bin\Debug\20180404_2_6_Homework_Calculator.pdb
+C:\Users\mmr\Documents\Visual Studio 2017\201801_Winter\20180404_2_6_Homework_Calculator\20180404_2_6_Homework_Calculator\obj\Debug\20180404_2_6_Homework_Calculator.csprojResolveAssemblyReference.cache
+C:\Users\mmr\Documents\Visual Studio 2017\201801_Winter\20180404_2_6_Homework_Calculator\20180404_2_6_Homework_Calculator\obj\Debug\20180404_2_6_Homework_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\mmr\Documents\Visual Studio 2017\201801_Winter\20180404_2_6_Homework_Calculator\20180404_2_6_Homework_Calculator\obj\Debug\20180404_2_6_Homework_Calculator.exe
+C:\Users\mmr\Documents\Visual Studio 2017\201801_Winter\20180404_2_6_Homework_Calculator\20180404_2_6_Homework_Calculator\obj\Debug\20180404_2_6_Homework_Calculator.pdb
